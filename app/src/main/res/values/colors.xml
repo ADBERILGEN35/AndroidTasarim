@@ -8,4 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="anaRenk">#ff3f57</color>
+    <color name="status_bar">#cc3246</color>
 </resources>
